@@ -1,0 +1,37 @@
+.jumbotron {
+  background-image: url('../img/wvw.jpg');
+  background-color: #CCC;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  background-size: 100%;
+}
+
+.jumbotron h1 {
+  text-shadow: 0 0 1em #000;
+  color: #FFF;
+}
+
+.jumbotron p {
+  text-shadow: 0 0 1em #000;
+  color: #FFF;
+}
+
+.btn-primary {
+  background-color: #000;
+}
+
+.btn-primary:hover {
+  background-color: #779edd;
+}
+
+.btn-default {
+  color: #fff;
+  background-color: #000;
+  border-color: #357ebd
+}
+
+.btn-default:hover {
+  color: black;
+  background-color: #779edd;
+}
